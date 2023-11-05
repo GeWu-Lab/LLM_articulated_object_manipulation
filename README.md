@@ -17,7 +17,7 @@ Then install the Isaac gym and curobo according to their official documents.
 
 # Demonstration Collection
 
-User could first download the articulated objects from [here](). 
+User could first download the articulated objects from [here](https://drive.google.com/file/d/1iWoY4jmi-1mDt8Th907zNvfh0d3E9hL9/view?usp=drive_link). 
 
 User could collect the human demonstration by running
 ```
