@@ -1,0 +1,22 @@
+env:
+  asset:
+    datasetPath: aligned_objects
+    trainAssets:
+      lift_up_trashcan_102155_link_2:
+        boundingBox: lift_up_trashcan/102155_link_2/bounding_box.json
+        handle: lift_up_trashcan/102155_link_2/handle.yaml
+        jointValue: lift_up_trashcan/102155_link_2/joint_value.yaml
+        path: lift_up_trashcan/102155_link_2/mobility.urdf
+        pose: lift_up_trashcan/102155_link_2/pose.yaml
+      lift_up_trashcan_102181_link_0:
+        boundingBox: lift_up_trashcan/102181_link_0/bounding_box.json
+        handle: lift_up_trashcan/102181_link_0/handle.yaml
+        jointValue: lift_up_trashcan/102181_link_0/joint_value.yaml
+        path: lift_up_trashcan/102181_link_0/mobility.urdf
+        pose: lift_up_trashcan/102181_link_0/pose.yaml
+      lift_up_trashcan_102209_link_0:
+        boundingBox: lift_up_trashcan/102209_link_0/bounding_box.json
+        handle: lift_up_trashcan/102209_link_0/handle.yaml
+        jointValue: lift_up_trashcan/102209_link_0/joint_value.yaml
+        path: lift_up_trashcan/102209_link_0/mobility.urdf
+        pose: lift_up_trashcan/102209_link_0/pose.yaml

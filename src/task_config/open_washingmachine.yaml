@@ -1,0 +1,16 @@
+env:
+  asset:
+    datasetPath: aligned_objects
+    trainAssets:
+      open_washingmachine_103480_link_6:
+        boundingBox: open_washingmachine/103480_link_6/bounding_box.json
+        handle: open_washingmachine/103480_link_6/handle.yaml
+        jointValue: open_washingmachine/103480_link_6/joint_value.yaml
+        path: open_washingmachine/103480_link_6/mobility.urdf
+        pose: open_washingmachine/103480_link_6/pose.yaml
+      open_washingmachine_103508_link_0:
+        boundingBox: open_washingmachine/103508_link_0/bounding_box.json
+        handle: open_washingmachine/103508_link_0/handle.yaml
+        jointValue: open_washingmachine/103508_link_0/joint_value.yaml
+        path: open_washingmachine/103508_link_0/mobility.urdf
+        pose: open_washingmachine/103508_link_0/pose.yaml

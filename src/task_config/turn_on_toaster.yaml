@@ -1,0 +1,22 @@
+env:
+  asset:
+    datasetPath: aligned_objects
+    trainAssets:
+      turn_on_toaster_103482:
+        boundingBox: turn_on_toaster/103482/bounding_box.json
+        handle: turn_on_toaster/103482/handle.yaml
+        jointValue: turn_on_toaster/103482/joint_value.yaml
+        path: turn_on_toaster/103482/mobility.urdf
+        pose: turn_on_toaster/103482/pose.yaml
+      turn_on_toaster_103498:
+        boundingBox: turn_on_toaster/103498/bounding_box.json
+        handle: turn_on_toaster/103498/handle.yaml
+        jointValue: turn_on_toaster/103498/joint_value.yaml
+        path: turn_on_toaster/103498/mobility.urdf
+        pose: turn_on_toaster/103498/pose.yaml
+      turn_on_toaster_103559:
+        boundingBox: turn_on_toaster/103559/bounding_box.json
+        handle: turn_on_toaster/103559/handle.yaml
+        jointValue: turn_on_toaster/103559/joint_value.yaml
+        path: turn_on_toaster/103559/mobility.urdf
+        pose: turn_on_toaster/103559/pose.yaml

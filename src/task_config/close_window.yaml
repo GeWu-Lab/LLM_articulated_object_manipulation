@@ -1,0 +1,34 @@
+env:
+  asset:
+    datasetPath: aligned_objects
+    trainAssets:
+      close_window_102801_link_0:
+        boundingBox: close_window/102801_link_0/bounding_box.json
+        handle: close_window/102801_link_0/handle.yaml
+        jointValue: close_window/102801_link_0/joint_value.yaml
+        path: close_window/102801_link_0/mobility.urdf
+        pose: close_window/102801_link_0/pose.yaml
+      close_window_102801_link_1:
+        boundingBox: close_window/102801_link_1/bounding_box.json
+        handle: close_window/102801_link_1/handle.yaml
+        jointValue: close_window/102801_link_1/joint_value.yaml
+        path: close_window/102801_link_1/mobility.urdf
+        pose: close_window/102801_link_1/pose.yaml
+      close_window_102906_link_0:
+        boundingBox: close_window/102906_link_0/bounding_box.json
+        handle: close_window/102906_link_0/handle.yaml
+        jointValue: close_window/102906_link_0/joint_value.yaml
+        path: close_window/102906_link_0/mobility.urdf
+        pose: close_window/102906_link_0/pose.yaml
+      close_window_103056:
+        boundingBox: close_window/103056/bounding_box.json
+        handle: close_window/103056/handle.yaml
+        jointValue: close_window/103056/joint_value.yaml
+        path: close_window/103056/mobility.urdf
+        pose: close_window/103056/pose.yaml
+      close_window_103135_link_0:
+        boundingBox: close_window/103135_link_0/bounding_box.json
+        handle: close_window/103135_link_0/handle.yaml
+        jointValue: close_window/103135_link_0/joint_value.yaml
+        path: close_window/103135_link_0/mobility.urdf
+        pose: close_window/103135_link_0/pose.yaml

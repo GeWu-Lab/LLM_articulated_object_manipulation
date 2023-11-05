@@ -1,0 +1,22 @@
+env:
+  asset:
+    datasetPath: aligned_objects
+    trainAssets:
+      open_cabinet_1063_link_0:
+        boundingBox: open_cabinet/1063_link_0/bounding_box.json
+        handle: open_cabinet/1063_link_0/handle.yaml
+        jointValue: open_cabinet/1063_link_0/joint_value.yaml
+        path: open_cabinet/1063_link_0/mobility.urdf
+        pose: open_cabinet/1063_link_0/pose.yaml
+      open_cabinet_1065_link_0:
+        boundingBox: open_cabinet/1065_link_0/bounding_box.json
+        handle: open_cabinet/1065_link_0/handle.yaml
+        jointValue: open_cabinet/1065_link_0/joint_value.yaml
+        path: open_cabinet/1065_link_0/mobility.urdf
+        pose: open_cabinet/1065_link_0/pose.yaml
+      open_cabinet_1065_link_1:
+        boundingBox: open_cabinet/1065_link_1/bounding_box.json
+        handle: open_cabinet/1065_link_1/handle.yaml
+        jointValue: open_cabinet/1065_link_1/joint_value.yaml
+        path: open_cabinet/1065_link_1/mobility.urdf
+        pose: open_cabinet/1065_link_1/pose.yaml

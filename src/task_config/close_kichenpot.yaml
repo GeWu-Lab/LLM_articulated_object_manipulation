@@ -1,0 +1,22 @@
+env:
+  asset:
+    datasetPath: aligned_objects
+    trainAssets:
+      close_kichenpot_100015:
+        boundingBox: close_kichenpot/100015/bounding_box.json
+        handle: close_kichenpot/100015/handle.yaml
+        jointValue: close_kichenpot/100015/joint_value.yaml
+        path: close_kichenpot/100015/mobility.urdf
+        pose: close_kichenpot/100015/pose.yaml
+      close_kichenpot_100038:
+        boundingBox: close_kichenpot/100038/bounding_box.json
+        handle: close_kichenpot/100038/handle.yaml
+        jointValue: close_kichenpot/100038/joint_value.yaml
+        path: close_kichenpot/100038/mobility.urdf
+        pose: close_kichenpot/100038/pose.yaml
+      close_kichenpot_100040:
+        boundingBox: close_kichenpot/100040/bounding_box.json
+        handle: close_kichenpot/100040/handle.yaml
+        jointValue: close_kichenpot/100040/joint_value.yaml
+        path: close_kichenpot/100040/mobility.urdf
+        pose: close_kichenpot/100040/pose.yaml

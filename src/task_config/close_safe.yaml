@@ -1,0 +1,22 @@
+env:
+  asset:
+    datasetPath: aligned_objects
+    trainAssets:
+      close_safe_101612:
+        boundingBox: close_safe/101612/bounding_box.json
+        handle: close_safe/101612/handle.yaml
+        jointValue: close_safe/101612/joint_value.yaml
+        path: close_safe/101612/mobility.urdf
+        pose: close_safe/101612/pose.yaml
+      close_safe_101612_2:
+        boundingBox: close_safe/101612_2/bounding_box.json
+        handle: close_safe/101612_2/handle.yaml
+        jointValue: close_safe/101612_2/joint_value.yaml
+        path: close_safe/101612_2/mobility.urdf
+        pose: close_safe/101612_2/pose.yaml
+      close_safe_102301:
+        boundingBox: close_safe/102301/bounding_box.json
+        handle: close_safe/102301/handle.yaml
+        jointValue: close_safe/102301/joint_value.yaml
+        path: close_safe/102301/mobility.urdf
+        pose: close_safe/102301/pose.yaml

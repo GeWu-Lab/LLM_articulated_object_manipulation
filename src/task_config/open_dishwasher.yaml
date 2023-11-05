@@ -1,0 +1,22 @@
+env:
+  asset:
+    datasetPath: aligned_objects
+    trainAssets:
+      open_dishwasher_11700:
+        boundingBox: open_dishwasher/11700/bounding_box.json
+        handle: open_dishwasher/11700/handle.yaml
+        jointValue: open_dishwasher/11700/joint_value.yaml
+        path: open_dishwasher/11700/mobility.urdf
+        pose: open_dishwasher/11700/pose.yaml
+      open_dishwasher_12428:
+        boundingBox: open_dishwasher/12428/bounding_box.json
+        handle: open_dishwasher/12428/handle.yaml
+        jointValue: open_dishwasher/12428/joint_value.yaml
+        path: open_dishwasher/12428/mobility.urdf
+        pose: open_dishwasher/12428/pose.yaml
+      open_dishwasher_12553:
+        boundingBox: open_dishwasher/12553/bounding_box.json
+        handle: open_dishwasher/12553/handle.yaml
+        jointValue: open_dishwasher/12553/joint_value.yaml
+        path: open_dishwasher/12553/mobility.urdf
+        pose: open_dishwasher/12553/pose.yaml

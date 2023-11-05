@@ -1,0 +1,10 @@
+env:
+  asset:
+    datasetPath: aligned_objects
+    trainAssets:
+      turn_on_button_7167:
+        boundingBox: turn_on_button/7167/bounding_box.json
+        handle: turn_on_button/7167/handle.yaml
+        jointValue: turn_on_button/7167/joint_value.yaml
+        path: turn_on_button/7167/mobility.urdf
+        pose: turn_on_button/7167/pose.yaml

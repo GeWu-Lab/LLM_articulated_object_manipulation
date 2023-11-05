@@ -1,0 +1,22 @@
+env:
+  asset:
+    datasetPath: aligned_objects
+    trainAssets:
+      lay_down_toilet_lid_102622:
+        boundingBox: lay_down_toilet_lid/102622/bounding_box.json
+        handle: lay_down_toilet_lid/102622/handle.yaml
+        jointValue: lay_down_toilet_lid/102622/joint_value.yaml
+        path: lay_down_toilet_lid/102622/mobility.urdf
+        pose: lay_down_toilet_lid/102622/pose.yaml
+      lay_down_toilet_lid_102622_link_0:
+        boundingBox: lay_down_toilet_lid/102622_link_0/bounding_box.json
+        handle: lay_down_toilet_lid/102622_link_0/handle.yaml
+        jointValue: lay_down_toilet_lid/102622_link_0/joint_value.yaml
+        path: lay_down_toilet_lid/102622_link_0/mobility.urdf
+        pose: lay_down_toilet_lid/102622_link_0/pose.yaml
+      lay_down_toilet_lid_102703:
+        boundingBox: lay_down_toilet_lid/102703/bounding_box.json
+        handle: lay_down_toilet_lid/102703/handle.yaml
+        jointValue: lay_down_toilet_lid/102703/joint_value.yaml
+        path: lay_down_toilet_lid/102703/mobility.urdf
+        pose: lay_down_toilet_lid/102703/pose.yaml

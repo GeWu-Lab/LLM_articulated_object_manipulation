@@ -1,0 +1,76 @@
+env:
+  asset:
+    datasetPath: aligned_objects
+    trainAssets:
+      demo_cabinet_1064_link_3:
+        boundingBox: demo_cabinet/1064_link_3/bounding_box.json
+        handle: demo_cabinet/1064_link_3/handle.yaml
+        jointValue: demo_cabinet/1064_link_3/joint_value.yaml
+        path: demo_cabinet/1064_link_3/mobility.urdf
+        pose: demo_cabinet/1064_link_3/pose.yaml
+      demo_cabinet_1065_link_0:
+        boundingBox: demo_cabinet/1065_link_0/bounding_box.json
+        handle: demo_cabinet/1065_link_0/handle.yaml
+        jointValue: demo_cabinet/1065_link_0/joint_value.yaml
+        path: demo_cabinet/1065_link_0/mobility.urdf
+        pose: demo_cabinet/1065_link_0/pose.yaml
+      demo_cabinet_1065_link_1:
+        boundingBox: demo_cabinet/1065_link_1/bounding_box.json
+        handle: demo_cabinet/1065_link_1/handle.yaml
+        jointValue: demo_cabinet/1065_link_1/joint_value.yaml
+        path: demo_cabinet/1065_link_1/mobility.urdf
+        pose: demo_cabinet/1065_link_1/pose.yaml
+      demo_cabinet_1067_link_0:
+        boundingBox: demo_cabinet/1067_link_0/bounding_box.json
+        handle: demo_cabinet/1067_link_0/handle.yaml
+        jointValue: demo_cabinet/1067_link_0/joint_value.yaml
+        path: demo_cabinet/1067_link_0/mobility.urdf
+        pose: demo_cabinet/1067_link_0/pose.yaml
+      demo_cabinet_1068_link_0:
+        boundingBox: demo_cabinet/1068_link_0/bounding_box.json
+        handle: demo_cabinet/1068_link_0/handle.yaml
+        jointValue: demo_cabinet/1068_link_0/joint_value.yaml
+        path: demo_cabinet/1068_link_0/mobility.urdf
+        pose: demo_cabinet/1068_link_0/pose.yaml
+      demo_cabinet_1073_link_0:
+        boundingBox: demo_cabinet/1073_link_0/bounding_box.json
+        handle: demo_cabinet/1073_link_0/handle.yaml
+        jointValue: demo_cabinet/1073_link_0/joint_value.yaml
+        path: demo_cabinet/1073_link_0/mobility.urdf
+        pose: demo_cabinet/1073_link_0/pose.yaml
+      demo_cabinet_1075_link_0:
+        boundingBox: demo_cabinet/1075_link_0/bounding_box.json
+        handle: demo_cabinet/1075_link_0/handle.yaml
+        jointValue: demo_cabinet/1075_link_0/joint_value.yaml
+        path: demo_cabinet/1075_link_0/mobility.urdf
+        pose: demo_cabinet/1075_link_0/pose.yaml
+      demo_cabinet_1075_link_1:
+        boundingBox: demo_cabinet/1075_link_1/bounding_box.json
+        handle: demo_cabinet/1075_link_1/handle.yaml
+        jointValue: demo_cabinet/1075_link_1/joint_value.yaml
+        path: demo_cabinet/1075_link_1/mobility.urdf
+        pose: demo_cabinet/1075_link_1/pose.yaml
+      demo_cabinet_1077_link_1:
+        boundingBox: demo_cabinet/1077_link_1/bounding_box.json
+        handle: demo_cabinet/1077_link_1/handle.yaml
+        jointValue: demo_cabinet/1077_link_1/joint_value.yaml
+        path: demo_cabinet/1077_link_1/mobility.urdf
+        pose: demo_cabinet/1077_link_1/pose.yaml
+      demo_cabinet_1078_link_0:
+        boundingBox: demo_cabinet/1078_link_0/bounding_box.json
+        handle: demo_cabinet/1078_link_0/handle.yaml
+        jointValue: demo_cabinet/1078_link_0/joint_value.yaml
+        path: demo_cabinet/1078_link_0/mobility.urdf
+        pose: demo_cabinet/1078_link_0/pose.yaml
+      demo_cabinet_1078_link_1:
+        boundingBox: demo_cabinet/1078_link_1/bounding_box.json
+        handle: demo_cabinet/1078_link_1/handle.yaml
+        jointValue: demo_cabinet/1078_link_1/joint_value.yaml
+        path: demo_cabinet/1078_link_1/mobility.urdf
+        pose: demo_cabinet/1078_link_1/pose.yaml
+      demo_cabinet_1081_link_0:
+        boundingBox: demo_cabinet/1081_link_0/bounding_box.json
+        handle: demo_cabinet/1081_link_0/handle.yaml
+        jointValue: demo_cabinet/1081_link_0/joint_value.yaml
+        path: demo_cabinet/1081_link_0/mobility.urdf
+        pose: demo_cabinet/1081_link_0/pose.yaml

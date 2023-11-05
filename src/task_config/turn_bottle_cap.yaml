@@ -1,0 +1,16 @@
+env:
+  asset:
+    datasetPath: aligned_objects
+    trainAssets:
+      turn_bottle_cap_3558:
+        boundingBox: turn_bottle_cap/3558/bounding_box.json
+        handle: turn_bottle_cap/3558/handle.yaml
+        jointValue: turn_bottle_cap/3558/joint_value.yaml
+        path: turn_bottle_cap/3558/mobility.urdf
+        pose: turn_bottle_cap/3558/pose.yaml
+      turn_bottle_cap_4043:
+        boundingBox: turn_bottle_cap/4043/bounding_box.json
+        handle: turn_bottle_cap/4043/handle.yaml
+        jointValue: turn_bottle_cap/4043/joint_value.yaml
+        path: turn_bottle_cap/4043/mobility.urdf
+        pose: turn_bottle_cap/4043/pose.yaml

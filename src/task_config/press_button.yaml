@@ -1,0 +1,22 @@
+env:
+  asset:
+    datasetPath: aligned_objects
+    trainAssets:
+      press_button_103482:
+        boundingBox: press_button/103482/bounding_box.json
+        handle: press_button/103482/handle.yaml
+        jointValue: press_button/103482/joint_value.yaml
+        path: press_button/103482/mobility.urdf
+        pose: press_button/103482/pose.yaml
+      press_button_103498:
+        boundingBox: press_button/103498/bounding_box.json
+        handle: press_button/103498/handle.yaml
+        jointValue: press_button/103498/joint_value.yaml
+        path: press_button/103498/mobility.urdf
+        pose: press_button/103498/pose.yaml
+      press_button_103559:
+        boundingBox: press_button/103559/bounding_box.json
+        handle: press_button/103559/handle.yaml
+        jointValue: press_button/103559/joint_value.yaml
+        path: press_button/103559/mobility.urdf
+        pose: press_button/103559/pose.yaml

@@ -1,0 +1,22 @@
+env:
+  asset:
+    datasetPath: aligned_objects
+    trainAssets:
+      close_laptop_9912:
+        boundingBox: close_laptop/9912/bounding_box.json
+        handle: close_laptop/9912/handle.yaml
+        jointValue: close_laptop/9912/joint_value.yaml
+        path: close_laptop/9912/mobility.urdf
+        pose: close_laptop/9912/pose.yaml
+      close_laptop_9960:
+        boundingBox: close_laptop/9960/bounding_box.json
+        handle: close_laptop/9960/handle.yaml
+        jointValue: close_laptop/9960/joint_value.yaml
+        path: close_laptop/9960/mobility.urdf
+        pose: close_laptop/9960/pose.yaml
+      close_laptop_9960_2:
+        boundingBox: close_laptop/9960_2/bounding_box.json
+        handle: close_laptop/9960_2/handle.yaml
+        jointValue: close_laptop/9960_2/joint_value.yaml
+        path: close_laptop/9960_2/mobility.urdf
+        pose: close_laptop/9960_2/pose.yaml

@@ -1,0 +1,22 @@
+env:
+  asset:
+    datasetPath: aligned_objects
+    trainAssets:
+      turn_on_switch_100952:
+        boundingBox: turn_on_switch/100952/bounding_box.json
+        handle: turn_on_switch/100952/handle.yaml
+        jointValue: turn_on_switch/100952/joint_value.yaml
+        path: turn_on_switch/100952/mobility.urdf
+        pose: turn_on_switch/100952/pose.yaml
+      turn_on_switch_100952_2:
+        boundingBox: turn_on_switch/100952_2/bounding_box.json
+        handle: turn_on_switch/100952_2/handle.yaml
+        jointValue: turn_on_switch/100952_2/joint_value.yaml
+        path: turn_on_switch/100952_2/mobility.urdf
+        pose: turn_on_switch/100952_2/pose.yaml
+      turn_on_switch_100976:
+        boundingBox: turn_on_switch/100976/bounding_box.json
+        handle: turn_on_switch/100976/handle.yaml
+        jointValue: turn_on_switch/100976/joint_value.yaml
+        path: turn_on_switch/100976/mobility.urdf
+        pose: turn_on_switch/100976/pose.yaml

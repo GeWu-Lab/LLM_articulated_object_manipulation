@@ -1,0 +1,22 @@
+env:
+  asset:
+    datasetPath: aligned_objects
+    trainAssets:
+      lay_down_bucket_handle_100452:
+        boundingBox: lay_down_bucket_handle/100452/bounding_box.json
+        handle: lay_down_bucket_handle/100452/handle.yaml
+        jointValue: lay_down_bucket_handle/100452/joint_value.yaml
+        path: lay_down_bucket_handle/100452/mobility.urdf
+        pose: lay_down_bucket_handle/100452/pose.yaml
+      lay_down_bucket_handle_100452_2:
+        boundingBox: lay_down_bucket_handle/100452_2/bounding_box.json
+        handle: lay_down_bucket_handle/100452_2/handle.yaml
+        jointValue: lay_down_bucket_handle/100452_2/joint_value.yaml
+        path: lay_down_bucket_handle/100452_2/mobility.urdf
+        pose: lay_down_bucket_handle/100452_2/pose.yaml
+      lay_down_bucket_handle_100464:
+        boundingBox: lay_down_bucket_handle/100464/bounding_box.json
+        handle: lay_down_bucket_handle/100464/handle.yaml
+        jointValue: lay_down_bucket_handle/100464/joint_value.yaml
+        path: lay_down_bucket_handle/100464/mobility.urdf
+        pose: lay_down_bucket_handle/100464/pose.yaml

@@ -1,0 +1,16 @@
+env:
+  asset:
+    datasetPath: aligned_objects
+    trainAssets:
+      lift_up_coffee_machine_lid_103030:
+        boundingBox: lift_up_coffee_machine_lid/103030/bounding_box.json
+        handle: lift_up_coffee_machine_lid/103030/handle.yaml
+        jointValue: lift_up_coffee_machine_lid/103030/joint_value.yaml
+        path: lift_up_coffee_machine_lid/103030/mobility.urdf
+        pose: lift_up_coffee_machine_lid/103030/pose.yaml
+      lift_up_coffee_machine_lid_103069:
+        boundingBox: lift_up_coffee_machine_lid/103069/bounding_box.json
+        handle: lift_up_coffee_machine_lid/103069/handle.yaml
+        jointValue: lift_up_coffee_machine_lid/103069/joint_value.yaml
+        path: lift_up_coffee_machine_lid/103069/mobility.urdf
+        pose: lift_up_coffee_machine_lid/103069/pose.yaml

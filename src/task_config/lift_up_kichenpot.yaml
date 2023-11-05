@@ -1,0 +1,22 @@
+env:
+  asset:
+    datasetPath: aligned_objects
+    trainAssets:
+      lift_up_kichenpot_100015:
+        boundingBox: lift_up_kichenpot/100015/bounding_box.json
+        handle: lift_up_kichenpot/100015/handle.yaml
+        jointValue: lift_up_kichenpot/100015/joint_value.yaml
+        path: lift_up_kichenpot/100015/mobility.urdf
+        pose: lift_up_kichenpot/100015/pose.yaml
+      lift_up_kichenpot_100038:
+        boundingBox: lift_up_kichenpot/100038/bounding_box.json
+        handle: lift_up_kichenpot/100038/handle.yaml
+        jointValue: lift_up_kichenpot/100038/joint_value.yaml
+        path: lift_up_kichenpot/100038/mobility.urdf
+        pose: lift_up_kichenpot/100038/pose.yaml
+      lift_up_kichenpot_100040:
+        boundingBox: lift_up_kichenpot/100040/bounding_box.json
+        handle: lift_up_kichenpot/100040/handle.yaml
+        jointValue: lift_up_kichenpot/100040/joint_value.yaml
+        path: lift_up_kichenpot/100040/mobility.urdf
+        pose: lift_up_kichenpot/100040/pose.yaml

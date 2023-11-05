@@ -1,0 +1,22 @@
+env:
+  asset:
+    datasetPath: aligned_objects
+    trainAssets:
+      open_microwave_7263:
+        boundingBox: open_microwave/7263/bounding_box.json
+        handle: open_microwave/7263/handle.yaml
+        jointValue: open_microwave/7263/joint_value.yaml
+        path: open_microwave/7263/mobility.urdf
+        pose: open_microwave/7263/pose.yaml
+      open_microwave_7310:
+        boundingBox: open_microwave/7310/bounding_box.json
+        handle: open_microwave/7310/handle.yaml
+        jointValue: open_microwave/7310/joint_value.yaml
+        path: open_microwave/7310/mobility.urdf
+        pose: open_microwave/7310/pose.yaml
+      open_microwave_7320:
+        boundingBox: open_microwave/7320/bounding_box.json
+        handle: open_microwave/7320/handle.yaml
+        jointValue: open_microwave/7320/joint_value.yaml
+        path: open_microwave/7320/mobility.urdf
+        pose: open_microwave/7320/pose.yaml

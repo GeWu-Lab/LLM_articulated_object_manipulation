@@ -1,0 +1,22 @@
+env:
+  asset:
+    datasetPath: aligned_objects
+    trainAssets:
+      open_door_9168:
+        boundingBox: open_door/9168/bounding_box.json
+        handle: open_door/9168/handle.yaml
+        jointValue: open_door/9168/joint_value.yaml
+        path: open_door/9168/mobility.urdf
+        pose: open_door/9168/pose.yaml
+      open_door_9281:
+        boundingBox: open_door/9281/bounding_box.json
+        handle: open_door/9281/handle.yaml
+        jointValue: open_door/9281/joint_value.yaml
+        path: open_door/9281/mobility.urdf
+        pose: open_door/9281/pose.yaml
+      open_door_9388:
+        boundingBox: open_door/9388/bounding_box.json
+        handle: open_door/9388/handle.yaml
+        jointValue: open_door/9388/joint_value.yaml
+        path: open_door/9388/mobility.urdf
+        pose: open_door/9388/pose.yaml

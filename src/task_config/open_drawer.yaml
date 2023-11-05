@@ -1,0 +1,16 @@
+env:
+  asset:
+    datasetPath: aligned_objects
+    trainAssets:
+      open_drawer_19179:
+        boundingBox: open_drawer/19179/bounding_box.json
+        handle: open_drawer/19179/handle.yaml
+        jointValue: open_drawer/19179/joint_value.yaml
+        path: open_drawer/19179/mobility.urdf
+        pose: open_drawer/19179/pose.yaml
+      open_drawer_29921:
+        boundingBox: open_drawer/29921/bounding_box.json
+        handle: open_drawer/29921/handle.yaml
+        jointValue: open_drawer/29921/joint_value.yaml
+        path: open_drawer/29921/mobility.urdf
+        pose: open_drawer/29921/pose.yaml

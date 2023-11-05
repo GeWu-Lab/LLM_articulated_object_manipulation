@@ -1,0 +1,28 @@
+env:
+  asset:
+    datasetPath: aligned_objects
+    trainAssets:
+      open_refrigerator_10638:
+        boundingBox: open_refrigerator/10638/bounding_box.json
+        handle: open_refrigerator/10638/handle.yaml
+        jointValue: open_refrigerator/10638/joint_value.yaml
+        path: open_refrigerator/10638/mobility.urdf
+        pose: open_refrigerator/10638/pose.yaml
+      open_refrigerator_11178:
+        boundingBox: open_refrigerator/11178/bounding_box.json
+        handle: open_refrigerator/11178/handle.yaml
+        jointValue: open_refrigerator/11178/joint_value.yaml
+        path: open_refrigerator/11178/mobility.urdf
+        pose: open_refrigerator/11178/pose.yaml
+      open_refrigerator_11231:
+        boundingBox: open_refrigerator/11231/bounding_box.json
+        handle: open_refrigerator/11231/handle.yaml
+        jointValue: open_refrigerator/11231/joint_value.yaml
+        path: open_refrigerator/11231/mobility.urdf
+        pose: open_refrigerator/11231/pose.yaml
+      open_refrigerator_12252:
+        boundingBox: open_refrigerator/12252/bounding_box.json
+        handle: open_refrigerator/12252/handle.yaml
+        jointValue: open_refrigerator/12252/joint_value.yaml
+        path: open_refrigerator/12252/mobility.urdf
+        pose: open_refrigerator/12252/pose.yaml

@@ -1,0 +1,28 @@
+env:
+  asset:
+    datasetPath: aligned_objects
+    trainAssets:
+      open_oven_7138:
+        boundingBox: open_oven/7138/bounding_box.json
+        handle: open_oven/7138/handle.yaml
+        jointValue: open_oven/7138/joint_value.yaml
+        path: open_oven/7138/mobility.urdf
+        pose: open_oven/7138/pose.yaml
+      open_oven_7179:
+        boundingBox: open_oven/7179/bounding_box.json
+        handle: open_oven/7179/handle.yaml
+        jointValue: open_oven/7179/joint_value.yaml
+        path: open_oven/7179/mobility.urdf
+        pose: open_oven/7179/pose.yaml
+      open_oven_7201:
+        boundingBox: open_oven/7201/bounding_box.json
+        handle: open_oven/7201/handle.yaml
+        jointValue: open_oven/7201/joint_value.yaml
+        path: open_oven/7201/mobility.urdf
+        pose: open_oven/7201/pose.yaml
+      open_oven_7221:
+        boundingBox: open_oven/7221/bounding_box.json
+        handle: open_oven/7221/handle.yaml
+        jointValue: open_oven/7221/joint_value.yaml
+        path: open_oven/7221/mobility.urdf
+        pose: open_oven/7221/pose.yaml

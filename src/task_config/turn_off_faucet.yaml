@@ -1,0 +1,22 @@
+env:
+  asset:
+    datasetPath: aligned_objects
+    trainAssets:
+      turn_off_faucet_1053:
+        boundingBox: turn_off_faucet/1053/bounding_box.json
+        handle: turn_off_faucet/1053/handle.yaml
+        jointValue: turn_off_faucet/1053/joint_value.yaml
+        path: turn_off_faucet/1053/mobility.urdf
+        pose: turn_off_faucet/1053/pose.yaml
+      turn_off_faucet_1343:
+        boundingBox: turn_off_faucet/1343/bounding_box.json
+        handle: turn_off_faucet/1343/handle.yaml
+        jointValue: turn_off_faucet/1343/joint_value.yaml
+        path: turn_off_faucet/1343/mobility.urdf
+        pose: turn_off_faucet/1343/pose.yaml
+      turn_off_faucet_1646:
+        boundingBox: turn_off_faucet/1646/bounding_box.json
+        handle: turn_off_faucet/1646/handle.yaml
+        jointValue: turn_off_faucet/1646/joint_value.yaml
+        path: turn_off_faucet/1646/mobility.urdf
+        pose: turn_off_faucet/1646/pose.yaml

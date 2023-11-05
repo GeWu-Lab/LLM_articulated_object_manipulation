@@ -1,0 +1,104 @@
+{
+    "open_safe":{
+        "task":"open the door of safe",
+        "description": " Here is my thought: The joint type is revolute, and the positive direction of joint is [0,0,1]. I should anti-clockwise around the z-axis to open the safe. Because the y-axis of joint (-0.41) is smaller than the y-axis of handle (-0.07), I need to decrease the y coordinate of handle to open it. Then, to anti-clockwise around wolrd coordinate z-axis, I need to further increase x.\n",
+        "path": "rotate_records/open_safe_102301.json",
+        "policy": "pull out for revolute joint"
+    },
+    "close_safe":{
+        "task":"close the door of safe",
+        "description": " Here is my thought: The joint type is revolute, and the positive direction of joint is [0,0,1]. I should clockwise around the z-axis to close the safe. Because the y-axis of joint (-0.41) is smaller than the y-axis pf handle (-0.07), I need to increase the y coordinate of handle to close it. Then, to clockwise around the wolrd coordinate z-axis, I need to further decrease x.\n",
+        "path": "rotate_records/close_safe_102301.json",
+        "policy": "pull out for revolute joint"
+    },
+    "turn_bottle_cap":{
+        "task":"rotate to turn on the bottle cap",
+        "description": "# Here is my thought: I should anti-clockwise around the bottle to open it.\n",
+        "path": "rotate_records/turn_bottle_cap_3558.json",
+        "policy": "pull out for revolute joint"
+    },
+    "turn_on_button":{
+        "task":"rotate to turn on the button",
+        "description": "# Here is my thought: To rotate the button, I need to grasp it and anti-clockwise rotate it.\n",
+        "path": "rotate_records/turn_on_button_7167.json",
+        "policy": "pull out for revolute joint"
+    },
+    "close_drawer":{
+        "task":"close the drawer",
+        "description": "# Here is my thought:  because the joint type of drawer is prismatic, and the axis positive direction is [-1,0,0], so I need to move by increasing x to close it.\n",
+        "path": "rotate_records/close_drawer_19179.json",
+        "policy": "pull out for revolute joint"
+    },
+    "open_drawer":{
+        "task":"open the drawer",
+        "description": "# Here is my thought: Then because the joint type of drawer is prismatic, and the axis positive direction is [-1,0,0], so I need to move by decreasing x to open it.\n",
+        "path": "rotate_records/open_drawer_19179.json",
+        "policy": "pull out for revolute joint"
+    },
+    "lift_strap_2":{
+        "task":"lift up the strap",
+        "description": " Here is my thought: The joint type is revolute, and the positive direction of joint is [1,0,0]. I should clockwise lift rotate around the x axis and increase z to lift up it. Because the y-axis of joint (0.19) is larger than the y-axis of handle (0.04), To lift clockwise around the wolrd coordinate x axis, I neet to  increase z and y.\n",
+        "path": "rotate_records/lift_strap_101673.json",
+        "policy": "pull out for revolute joint"
+    },
+    "lift_strap":{
+        "task":"lift up the strap",
+        "description": "# Here is my thought:  The joint type is revolute, but the positive direction of joint is [-1,0,0]. Thus, I should anti-clockwise lift around the x axis and increase z to lift up it. Because the y-axis of joint (0.19) is smaller than the y-axis of handle(0.36), To lift anti-clockwise around the wolrd coordinate x axis, I neet to increase z, but decrease y.\n",
+        "path": "rotate_records/lift_strap_101681_2.json",
+        "policy": "pull out for revolute joint"
+    },
+    "lay_down_strap":{
+        "task":"lay down the strap",
+        "description": "# Here is my thought:  The joint type is revolute, and the positive direction of joint is [1,0,0]. I should anti-clockwise around the x axis and decrease z-axis to lay down it. Because the z-axis of joint (0.15) is lower than the z-axis of handle (0.30), To anti-clockwise lay down around the wolrd coordinate x axis, I neet to decrease z and y.\n",
+        "path": "rotate_records/lay_down_strap_101673.json",
+        "policy": "pull out for revolute joint"
+    },   
+    "open_refrigerator":{
+        "task":"open the door of refrigerator",
+        "description": "# Here is my thought: The joint type is revolute and the positive direction is [0, 0, -1]. Thus, I need to clockwise around wolrd coordinate z-axis to open it. Because the y-axis of joint (0.00) is larger than the y-axis of handle (-0.15), I should increase the y-axis coordinate of handle to open it. Then, to clockwise around z axis (0,0,1), I need to further decrease x coordinate of handle. \n",
+        "path": "rotate_records/open_refrigerator_11178.json",
+        "policy": "pull out for revolute joint"
+    },
+    "close_refrigerator_2":{
+        "task":"close the door of refrigerator",
+        "description": "# Here is my thought: The joint type is revolute and the positive direction is [0, 0, -1],  thus i need to anti-clockwise around wolrd coordinate z-axis to close it. Because the y-axis of joint (0.20) is larger than the y-axis of handle (0.15), I should decrease the y-axis coordinate of handle to close it. Further, to achieve anti-clockwise rotation around the z axis (0,0,1), I need to increase x coordiante of handle.\n",
+        "path": "rotate_records/close_refrigerator_11178.json",
+        "policy": "pull out for revolute joint"
+    },
+    "open_oven":{
+        "task":"open the door of oven",
+        "description": "# Here is my thought:  Because the joint type is revolute, and the positive direction is [0,-1,0]. I need to clockwise around the world coordinate y-axis to open the oven. Because the z-axis of joint (0.52) is lower than the z-aixs of handle (0.67), I should decrease the z-axis coordinateof handle to open it. Then, to clockwise around the y-axis, I need to further decrease x coordinate of handle.\n",
+        "path": "rotate_records/open_oven_7179.json",
+        "policy": "pull out for revolute joint"
+    },
+    "close_oven":{
+        "task":"close the door of oven",
+        "description": "# Here is my thought:  the joint type is revolute and the positive direction is [0,-1,0]. I need to anti-clockwise around wolrd coordinate y-axis to close the oven. Because the z-axis of joint (0.41) is smaller than the z-axis of handle (0.56), I should increase the z-axis coordinate of handle to close it. Then, to anti-clockwise around the y-axis, I need to futher increase x coordinate of handle.\n",
+        "path": "rotate_records/close_oven_7138.json",
+        "policy": "pull out for revolute joint"
+    },
+    "open_refrigerator_2":{
+        "task":"open the door of refrigerator",
+        "description": "# Here is my thought: The joint type is revolute and the positive direction is [0, 0, 1]. Thus, I need to anti-clockwise around wolrd coordinate z-axis to open it. Because the y-axis of joint (-0.21) is smaller than y-axis of handle(0.17), I should decrease the y-axis coordinate of handle to open it. Then, to anti-clockwise around z axis (0,0,1), I need to further decrease x coordinate of handle. \n",
+        "path": "rotate_records/open_refrigerator_10638.json",
+        "policy": "pull out for revolute joint"
+    },
+    "close_refrigerator":{
+        "task":"close the door of refrigerator",
+        "description": "# Here is my thought: The joint type is revolute and the positive direction is [0, 0, 1],  thus i need to clockwise around wolrd coordinate z-axis to close it. Because the y-axis of joint (-0.41) is smaller than the y-axis of handle(-0.09), I should increase the y-axis coordinate of handle to close it. Then, to clockwise around the z axis (0,0,1), I need further to increase x coordinate of handle.\n",
+        "path": "rotate_records/close_refrigerator_10638.json",
+        "policy": "pull out for revolute joint"
+    },
+    "turn_off_faucet":{
+        "task":"turn off the faucet",
+        "description": "# Here is my thought: The joint type is revolute, and the positive direction of joint is [0,0,1]. Thus, I should clockwise around the z-axis to turn off the faucet. To clockwise around the wolrd coordinate z-axis, I need to generate a circle trajectory by increasing y and decreasing x.\n",
+        "path": "rotate_records/turn_off_faucet_1646.json",
+        "policy": "pull out for revolute joint"
+    },
+    "turn_on_faucet":{
+        "task":"turn on the faucet",
+        "description": "# Here is my thought: The joint type is revolute, and the positive direction of joint is [0,0,1]. Thus, I should anti-clockwise around the z-axis to turn on the faucet. To anti-clockwise around the zwolrd coordinate -axis, I need to generate a circle trajectory by increasing x and decreasing y.\n",
+        "path": "rotate_records/turn_on_faucet_1053.json",
+        "policy": "pull out for revolute joint"
+    }
+}

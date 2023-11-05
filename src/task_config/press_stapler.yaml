@@ -1,0 +1,22 @@
+env:
+  asset:
+    datasetPath: aligned_objects
+    trainAssets:
+      press_stapler_102990:
+        boundingBox: press_stapler/102990/bounding_box.json
+        handle: press_stapler/102990/handle.yaml
+        jointValue: press_stapler/102990/joint_value.yaml
+        path: press_stapler/102990/mobility.urdf
+        pose: press_stapler/102990/pose.yaml
+      press_stapler_103099:
+        boundingBox: press_stapler/103099/bounding_box.json
+        handle: press_stapler/103099/handle.yaml
+        jointValue: press_stapler/103099/joint_value.yaml
+        path: press_stapler/103099/mobility.urdf
+        pose: press_stapler/103099/pose.yaml
+      press_stapler_103275:
+        boundingBox: press_stapler/103275/bounding_box.json
+        handle: press_stapler/103275/handle.yaml
+        jointValue: press_stapler/103275/joint_value.yaml
+        path: press_stapler/103275/mobility.urdf
+        pose: press_stapler/103275/pose.yaml

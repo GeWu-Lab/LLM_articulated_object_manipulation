@@ -1,0 +1,22 @@
+env:
+  asset:
+    datasetPath: aligned_objects
+    trainAssets:
+      lay_down_strap_101673:
+        boundingBox: lay_down_strap/101673/bounding_box.json
+        handle: lay_down_strap/101673/handle.yaml
+        jointValue: lay_down_strap/101673/joint_value.yaml
+        path: lay_down_strap/101673/mobility.urdf
+        pose: lay_down_strap/101673/pose.yaml
+      lay_down_strap_101681:
+        boundingBox: lay_down_strap/101681/bounding_box.json
+        handle: lay_down_strap/101681/handle.yaml
+        jointValue: lay_down_strap/101681/joint_value.yaml
+        path: lay_down_strap/101681/mobility.urdf
+        pose: lay_down_strap/101681/pose.yaml
+      lay_down_strap_101681_2:
+        boundingBox: lay_down_strap/101681_2/bounding_box.json
+        handle: lay_down_strap/101681_2/handle.yaml
+        jointValue: lay_down_strap/101681_2/joint_value.yaml
+        path: lay_down_strap/101681_2/mobility.urdf
+        pose: lay_down_strap/101681_2/pose.yaml
