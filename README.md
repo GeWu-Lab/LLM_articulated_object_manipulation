@@ -1,5 +1,5 @@
 # Kinematic-aware Prompting for Generalizable Articulated Object Manipulation with LLMs
-[[Project Page](https://xwinks.github.io/llm_for_articulated_manipulation/)] [[Arxiv]()]
+[[Project Page](https://xwinks.github.io/llm_for_articulated_manipulation/)] [[Arxiv](https://arxiv.org/abs/2311.02847)]
 
 
 ![image](./assets/pipeline.png)
