@@ -3,7 +3,7 @@
 PyTorch code accompanies our paper:
 __Kinematic-aware Prompting for Generalizable Articulated Object Manipulation with LLMs__
 
-[Wenke Xia](https://xwinks.github.io/)\*, [Dong Wang](https://scholar.google.es/citations?user=dasL9V4AAAAJ&hl=zh-CN)\*, Xincheng Pang, [Zhigang Wang](https://scholar.google.com/citations?hl=zh-CN&user=cw3EaAYAAAAJ&view_op=list_works&sortby=pubdate), [Bin Zhao](https://scholar.google.com/citations?user=DQB0hqwAAAAJ&hl=zh-CN), [Di Hu](https://dtaoo.github.io/)‡
+[Wenke Xia](https://xwinks.github.io/)\*, [Dong Wang](https://scholar.google.es/citations?user=dasL9V4AAAAJ&hl=zh-CN)\*, Xincheng Pang, [Zhigang Wang](https://scholar.google.com/citations?hl=zh-CN&user=cw3EaAYAAAAJ&view_op=list_works&sortby=pubdate), [Bin Zhao](https://scholar.google.com/citations?user=DQB0hqwAAAAJ&hl=zh-CN), [Di Hu](https://dtaoo.github.io/)‡, [Xuelong Li](https://iopen.nwpu.edu.cn/info/1329/1171.htm)‡
 
 Resources:[[Project Page](https://gewu-lab.github.io/llm_for_articulated_object_manipulation/)],[[Arxiv](https://arxiv.org/abs/2311.02847)]
 
