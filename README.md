@@ -1,5 +1,9 @@
 # Kinematic-aware Prompting for Generalizable Articulated Object Manipulation with LLMs
-[Wenke Xia](https://xwinks.github.io/)\*, [Dong Wang](https://scholar.google.es/citations?user=dasL9V4AAAAJ&hl=zh-CN)\*, Xincheng Pang, [Zhigang Wang](https://scholar.google.com/citations?hl=zh-CN&user=cw3EaAYAAAAJ&view_op=list_works&sortby=pubdate), [Bin Zhao](https://scholar.google.com/citations?user=DQB0hqwAAAAJ&hl=zh-CN), [Di Hu](https://dtaoo.github.io/)‡, [Xuelong Li](https://iopen.nwpu.edu.cn/info/1329/1171.htm)‡
+This is the PyTorch code of our paper: __Kinematic-aware Prompting for Generalizable Articulated Object Manipulation with LLMs__.
+
+Authors: [Wenke Xia](https://xwinks.github.io/)\*, [Dong Wang](https://scholar.google.es/citations?user=dasL9V4AAAAJ&hl=zh-CN)\*, Xincheng Pang, [Zhigang Wang](https://scholar.google.com/citations?hl=zh-CN&user=cw3EaAYAAAAJ&view_op=list_works&sortby=pubdate), [Bin Zhao](https://scholar.google.com/citations?user=DQB0hqwAAAAJ&hl=zh-CN), [Di Hu](https://dtaoo.github.io/)‡, [Xuelong Li](https://iopen.nwpu.edu.cn/info/1329/1171.htm)‡
+
+Accepted By: __2024 IEEE International Conference on Robotics and Automation(ICRA)__
 
 Resources:[[Project Page](https://gewu-lab.github.io/llm_for_articulated_object_manipulation/)],[[Arxiv](https://arxiv.org/abs/2311.02847)]
 ___
@@ -81,6 +85,10 @@ The result on seen object categories are:
 
 The result on unseen object categories are:
 ![](./assets/unseen.png)
+
+## Acknowledgement
+
+This research was supported by National Natural Science Foundation of China (NO.62106272), the Young Elite Scientists Sponsorship Program by CAST (2021QNRC001),  the Shanghai AI Laboratory, National Key R\&D Program of China (2022ZD0160100), the National Natural Science Foundation of China (62376222), Young Elite Scientists Sponsorship Program by CAST (2023QNRC001) and Public Computing Cloud, Renmin University of China.
 
 ## Citation 
 
